@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="students.xsl"?>
+<students xmlns:students="urn:students">
+  <student>
+    <name>Abraham Lincoln</name>
+    <sex>Male</sex>
+    <birthDate>1809-02-12</birthDate>
+    <phone>+35921232</phone>
+    <email>abri@usgovernment.com</email>
+    <course>Mathematics</course>
+    <speciality>President Philology</speciality>
+    <facultyNumber>12345</facultyNumber>
+    <exams>
+      <exam>
+        <name>Algorithms</name>
+        <tutor>Arhimed</tutor>
+        <score>100</score>
+      </exam>
+      <exam>
+        <name>Algebra</name>
+        <tutor>Arhimed</tutor>
+        <score>80</score>
+      </exam>
+    </exams>
+  </student>
+  <student>
+    <name>John Fitzgerald Kennedy</name>
+    <sex>Male</sex>
+    <birthDate>1917-05-29</birthDate>
+    <phone>+35921255</phone>
+    <email>johnny@usgovernment.com</email>
+    <course>Nuclear Engineering</course>
+    <speciality>Engineering</speciality>
+    <facultyNumber>12355</facultyNumber>
+    <exams>
+      <exam>
+        <name>Theoretical Physics</name>
+        <tutor>J. Robert Oppenheimer</tutor>
+        <score>90</score>
+      </exam>
+      <exam>
+        <name>Pratical Physics</name>
+        <tutor>Albert Einstein</tutor>
+        <score>60</score>
+      </exam>
+    </exams>
+  </student>
+</students>
