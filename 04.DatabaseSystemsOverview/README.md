@@ -71,7 +71,7 @@ We can have only one Primary key in a table.
 #### 6.  _When is a certain database schema normalized? What are the advantages of normalized databases?_
 ##### **_Definition_**
  * Normalization is the process of removing redundant data from your tables in order to improve storage efficiency, data integrity and scalability. This improvement is balanced against an increase in complexity and potential performance losses from the joining of the normalized tables at query-time. There are two goals of the normalization process: eliminating redundant data (for example, storing the same data in more than one table) and ensuring data dependencies make sense (only storing related data in a table). Both of these are worthy goals as they reduce the amount of space a database consumes and ensure that data is logically stored.
- * 
+
 ##### **_Advantages of normalization_**
  * The following are the advantages of the normalization:
     - More efficient data structure.
@@ -86,7 +86,7 @@ We can have only one Primary key in a table.
 #### 7.  _What are database integrity constraints and when are they used?_
 ##### **_Definition_**
  * Data integrity refers to maintaining and assuring the accuracy and consistency of data over its entire life-cycle, and is a critical aspect to the design, implementation and usage of any system which stores, processes, or retrieves data. The term data integrity is broad in scope and may have widely different meanings depending on the specific context.
- * 
+
 ##### **_Types of Integrity Constraints_**
  * **Entity integrity** concerns the concept of a primary key. Entity integrity is an integrity rule which states that every table must have a primary key and that the column or columns chosen to be the primary key should be unique and not null.
  * **Referential integrity** concerns the concept of a foreign key. The referential integrity rule states that any foreign-key value can only be in one of two states. The usual state of affairs is that the foreign-key value refers to a primary key value of some table in the database. Occasionally, and this will depend on the rules of the data owner, a foreign-key value can be null. In this case we are explicitly saying that either there is no relationship between the objects represented in the database or that this relationship is unknown.
@@ -107,11 +107,11 @@ As a general rule, only when the data in the index column Frequent queries, only
 #### 10.  _What are transactions used for? Give an example._
 ##### **_Definition_**
  * A transaction is a unit of work that is performed against a database. Transactions are units or sequences of work accomplished in a logical order, whether in a manual fashion by a user or automatically by some sort of a database program. SQL queries will club into a group and then we execute all of them together as a part of a transaction.
- * 
+
 ##### **_Transaction Commands_**
  * **COMMIT** - this is the transactional command used to save changes invoked by a transaction to the database. It saves all transactions to the database since the last COMMIT or ROLLBACK command.
  * **ROLLBACK** - this command is the transactional command used to undo transactions that have not already been saved to the database. It can only be used to undo transactions since the last COMMIT or ROLLBACK command was issued.
- * 
+
 ##### **_Example_**
 ~~~SQL
 BEGIN TRAN 
