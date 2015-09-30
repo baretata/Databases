@@ -1,0 +1,5 @@
+D:\workspace\02.XMLProcessing\12.ExtractPricesOfOldAlbumsWithLinq\bin\Debug\12.ExtractPricesOfOldAlbumsWithLinq.exe.config
+D:\workspace\02.XMLProcessing\12.ExtractPricesOfOldAlbumsWithLinq\bin\Debug\12.ExtractPricesOfOldAlbumsWithLinq.exe
+D:\workspace\02.XMLProcessing\12.ExtractPricesOfOldAlbumsWithLinq\bin\Debug\12.ExtractPricesOfOldAlbumsWithLinq.pdb
+D:\workspace\02.XMLProcessing\12.ExtractPricesOfOldAlbumsWithLinq\obj\Debug\12.ExtractPricesOfOldAlbumsWithLinq.exe
+D:\workspace\02.XMLProcessing\12.ExtractPricesOfOldAlbumsWithLinq\obj\Debug\12.ExtractPricesOfOldAlbumsWithLinq.pdb

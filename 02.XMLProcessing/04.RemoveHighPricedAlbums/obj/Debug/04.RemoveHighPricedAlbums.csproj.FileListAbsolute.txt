@@ -1,0 +1,6 @@
+D:\workspace\02.XMLProcessing\04.RemoveHighPricedAlbums\bin\Debug\04.RemoveHighPricedAlbums.exe.config
+D:\workspace\02.XMLProcessing\04.RemoveHighPricedAlbums\bin\Debug\04.RemoveHighPricedAlbums.exe
+D:\workspace\02.XMLProcessing\04.RemoveHighPricedAlbums\bin\Debug\04.RemoveHighPricedAlbums.pdb
+D:\workspace\02.XMLProcessing\04.RemoveHighPricedAlbums\obj\Debug\04.RemoveHighPricedAlbums.exe
+D:\workspace\02.XMLProcessing\04.RemoveHighPricedAlbums\obj\Debug\04.RemoveHighPricedAlbums.pdb
+D:\workspace\02.XMLProcessing\04.RemoveHighPricedAlbums\obj\Debug\04.RemoveHighPricedAlbums.csprojResolveAssemblyReference.cache

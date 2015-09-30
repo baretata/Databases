@@ -1,0 +1,12 @@
+D:\workspace\02.XMLProcessing\14.XslTransform\bin\Debug\14.XslTransform.exe.config
+D:\workspace\02.XMLProcessing\14.XslTransform\bin\Debug\14.XslTransform.exe
+D:\workspace\02.XMLProcessing\14.XslTransform\bin\Debug\14.XslTransform.pdb
+D:\workspace\02.XMLProcessing\14.XslTransform\obj\Debug\13-14.XslTransform.csprojResolveAssemblyReference.cache
+D:\workspace\02.XMLProcessing\14.XslTransform\obj\Debug\14.XslTransform.exe
+D:\workspace\02.XMLProcessing\14.XslTransform\obj\Debug\14.XslTransform.pdb
+D:\workspace\02.XMLProcessing\13-14.XslTransform\bin\Debug\14.XslTransform.exe.config
+D:\workspace\02.XMLProcessing\13-14.XslTransform\obj\Debug\14.XslTransform.exe
+D:\workspace\02.XMLProcessing\13-14.XslTransform\obj\Debug\14.XslTransform.pdb
+D:\workspace\02.XMLProcessing\13-14.XslTransform\bin\Debug\14.XslTransform.exe
+D:\workspace\02.XMLProcessing\13-14.XslTransform\bin\Debug\14.XslTransform.pdb
+D:\workspace\02.XMLProcessing\13-14.XslTransform\obj\Debug\13-14.XslTransform.csprojResolveAssemblyReference.cache

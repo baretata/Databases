@@ -1,0 +1,6 @@
+D:\workspace\02.XMLProcessing\09.TraverseDirectoryContentToXML\bin\Debug\09.TraverseDirectoryContentToXML.exe.config
+D:\workspace\02.XMLProcessing\09.TraverseDirectoryContentToXML\bin\Debug\09.TraverseDirectoryContentToXML.exe
+D:\workspace\02.XMLProcessing\09.TraverseDirectoryContentToXML\bin\Debug\09.TraverseDirectoryContentToXML.pdb
+D:\workspace\02.XMLProcessing\09.TraverseDirectoryContentToXML\obj\Debug\09.TraverseDirectoryContentToXML.csprojResolveAssemblyReference.cache
+D:\workspace\02.XMLProcessing\09.TraverseDirectoryContentToXML\obj\Debug\09.TraverseDirectoryContentToXML.exe
+D:\workspace\02.XMLProcessing\09.TraverseDirectoryContentToXML\obj\Debug\09.TraverseDirectoryContentToXML.pdb

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<catalog>
+	<album>
+		<name>Best of Madonna</name>
+		<artist>Madonna</artist>
+	</album>
+	<album>
+		<name>Worst of Madonna</name>
+		<artist>Madonna</artist>
+	</album>
+	<album>
+		<name>Meteora</name>
+		<artist>Linkin Park</artist>
+	</album>
+	<album>
+		<name>Wait for the drop</name>
+		<artist>Robin Schulz</artist>
+	</album>
+</catalog>

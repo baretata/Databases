@@ -1,0 +1,6 @@
+D:\workspace\02.XMLProcessing\16.XSDSchemaValidator\bin\Debug\16.XSDSchemaValidator.exe.config
+D:\workspace\02.XMLProcessing\16.XSDSchemaValidator\bin\Debug\16.XSDSchemaValidator.exe
+D:\workspace\02.XMLProcessing\16.XSDSchemaValidator\bin\Debug\16.XSDSchemaValidator.pdb
+D:\workspace\02.XMLProcessing\16.XSDSchemaValidator\obj\Debug\16.XSDSchemaValidator.csprojResolveAssemblyReference.cache
+D:\workspace\02.XMLProcessing\16.XSDSchemaValidator\obj\Debug\16.XSDSchemaValidator.exe
+D:\workspace\02.XMLProcessing\16.XSDSchemaValidator\obj\Debug\16.XSDSchemaValidator.pdb

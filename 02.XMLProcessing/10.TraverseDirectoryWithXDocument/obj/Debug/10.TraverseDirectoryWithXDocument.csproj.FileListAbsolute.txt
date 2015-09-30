@@ -1,0 +1,5 @@
+D:\workspace\02.XMLProcessing\10.TraverseDirectoryWithXDocument\bin\Debug\10.TraverseDirectoryWithXDocument.exe.config
+D:\workspace\02.XMLProcessing\10.TraverseDirectoryWithXDocument\bin\Debug\10.TraverseDirectoryWithXDocument.exe
+D:\workspace\02.XMLProcessing\10.TraverseDirectoryWithXDocument\bin\Debug\10.TraverseDirectoryWithXDocument.pdb
+D:\workspace\02.XMLProcessing\10.TraverseDirectoryWithXDocument\obj\Debug\10.TraverseDirectoryWithXDocument.exe
+D:\workspace\02.XMLProcessing\10.TraverseDirectoryWithXDocument\obj\Debug\10.TraverseDirectoryWithXDocument.pdb

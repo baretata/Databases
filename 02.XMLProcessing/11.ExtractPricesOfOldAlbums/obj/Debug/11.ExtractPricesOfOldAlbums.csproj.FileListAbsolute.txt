@@ -1,0 +1,6 @@
+D:\workspace\02.XMLProcessing\11.ExtractPricesOfOldAlbums\bin\Debug\11.ExtractPricesOfOldAlbums.exe.config
+D:\workspace\02.XMLProcessing\11.ExtractPricesOfOldAlbums\bin\Debug\11.ExtractPricesOfOldAlbums.exe
+D:\workspace\02.XMLProcessing\11.ExtractPricesOfOldAlbums\bin\Debug\11.ExtractPricesOfOldAlbums.pdb
+D:\workspace\02.XMLProcessing\11.ExtractPricesOfOldAlbums\obj\Debug\11.ExtractPricesOfOldAlbums.csprojResolveAssemblyReference.cache
+D:\workspace\02.XMLProcessing\11.ExtractPricesOfOldAlbums\obj\Debug\11.ExtractPricesOfOldAlbums.exe
+D:\workspace\02.XMLProcessing\11.ExtractPricesOfOldAlbums\obj\Debug\11.ExtractPricesOfOldAlbums.pdb

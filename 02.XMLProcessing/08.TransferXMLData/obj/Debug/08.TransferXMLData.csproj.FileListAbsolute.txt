@@ -1,0 +1,6 @@
+D:\workspace\02.XMLProcessing\08.TransferXMLData\bin\Debug\08.TransferXMLData.exe.config
+D:\workspace\02.XMLProcessing\08.TransferXMLData\bin\Debug\08.TransferXMLData.exe
+D:\workspace\02.XMLProcessing\08.TransferXMLData\bin\Debug\08.TransferXMLData.pdb
+D:\workspace\02.XMLProcessing\08.TransferXMLData\obj\Debug\08.TransferXMLData.csprojResolveAssemblyReference.cache
+D:\workspace\02.XMLProcessing\08.TransferXMLData\obj\Debug\08.TransferXMLData.exe
+D:\workspace\02.XMLProcessing\08.TransferXMLData\obj\Debug\08.TransferXMLData.pdb

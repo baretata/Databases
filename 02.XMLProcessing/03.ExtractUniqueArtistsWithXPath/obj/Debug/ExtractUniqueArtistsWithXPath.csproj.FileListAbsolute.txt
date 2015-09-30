@@ -1,0 +1,2 @@
+D:\workspace\02.XMLProcessing\ExtractUniqueArtistsWithXPath\bin\Debug\ExtractUniqueArtistsWithXPath.exe.config
+D:\workspace\02.XMLProcessing\ExtractUniqueArtistsWithXPath\obj\Debug\ExtractUniqueArtistsWithXPath.csprojResolveAssemblyReference.cache

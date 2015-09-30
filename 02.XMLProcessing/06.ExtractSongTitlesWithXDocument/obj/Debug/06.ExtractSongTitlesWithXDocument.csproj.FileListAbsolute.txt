@@ -1,0 +1,6 @@
+D:\workspace\02.XMLProcessing\06.ExtractSongTitlesWithXDocument\bin\Debug\06.ExtractSongTitlesWithXDocument.exe.config
+D:\workspace\02.XMLProcessing\06.ExtractSongTitlesWithXDocument\bin\Debug\06.ExtractSongTitlesWithXDocument.exe
+D:\workspace\02.XMLProcessing\06.ExtractSongTitlesWithXDocument\bin\Debug\06.ExtractSongTitlesWithXDocument.pdb
+D:\workspace\02.XMLProcessing\06.ExtractSongTitlesWithXDocument\obj\Debug\06.ExtractSongTitlesWithXDocument.exe
+D:\workspace\02.XMLProcessing\06.ExtractSongTitlesWithXDocument\obj\Debug\06.ExtractSongTitlesWithXDocument.pdb
+D:\workspace\02.XMLProcessing\06.ExtractSongTitlesWithXDocument\obj\Debug\06.ExtractSongTitlesWithXDocument.csprojResolveAssemblyReference.cache

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+  <album>
+    <name>Worst of Madonna</name>
+    <artist>Madonna</artist>
+    <year>1990</year>
+    <producer>Madonna's mother</producer>
+    <price>14.50</price>
+    <song>
+      <title>La isla bonita 2</title>
+      <duration>3:26</duration>
+    </song>
+    <song>
+      <title>How bad do you want it</title>
+      <duration>4:50</duration>
+    </song>
+    <song>
+      <title>Rogue</title>
+      <duration>4:32</duration>
+    </song>
+  </album>
+  <album>
+    <name>Meteora</name>
+    <artist>Linkin Park</artist>
+    <year>2012</year>
+    <producer>Linkin Street</producer>
+    <price>15.00</price>
+    <song>
+      <title>Castle of glass</title>
+      <duration>3:15</duration>
+    </song>
+    <song>
+      <title>Bleed it out</title>
+      <duration>4:21</duration>
+    </song>
+  </album>
+</catalog>

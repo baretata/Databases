@@ -1,0 +1,6 @@
+D:\workspace\02.XMLProcessing\02.ExtractUniqueArtistsFromCatalog\bin\Debug\02.ExtractUniqueArtistsFromCatalog.exe.config
+D:\workspace\02.XMLProcessing\02.ExtractUniqueArtistsFromCatalog\bin\Debug\02.ExtractUniqueArtistsFromCatalog.exe
+D:\workspace\02.XMLProcessing\02.ExtractUniqueArtistsFromCatalog\bin\Debug\02.ExtractUniqueArtistsFromCatalog.pdb
+D:\workspace\02.XMLProcessing\02.ExtractUniqueArtistsFromCatalog\obj\Debug\02.ExtractUniqueArtistsFromCatalog.csprojResolveAssemblyReference.cache
+D:\workspace\02.XMLProcessing\02.ExtractUniqueArtistsFromCatalog\obj\Debug\02.ExtractUniqueArtistsFromCatalog.exe
+D:\workspace\02.XMLProcessing\02.ExtractUniqueArtistsFromCatalog\obj\Debug\02.ExtractUniqueArtistsFromCatalog.pdb

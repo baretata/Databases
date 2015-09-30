@@ -1,0 +1,5 @@
+D:\workspace\02.XMLProcessing\07.TextFileToXML\bin\Debug\07.TextFileToXML.exe.config
+D:\workspace\02.XMLProcessing\07.TextFileToXML\bin\Debug\07.TextFileToXML.exe
+D:\workspace\02.XMLProcessing\07.TextFileToXML\bin\Debug\07.TextFileToXML.pdb
+D:\workspace\02.XMLProcessing\07.TextFileToXML\obj\Debug\07.TextFileToXML.exe
+D:\workspace\02.XMLProcessing\07.TextFileToXML\obj\Debug\07.TextFileToXML.pdb
