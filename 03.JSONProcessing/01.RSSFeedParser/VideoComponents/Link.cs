@@ -1,6 +1,7 @@
-﻿namespace _01.RSSFeedParser
+﻿namespace _01.RSSFeedParser.VideoComponents
 {
     using System;
+
     using Newtonsoft.Json;
 
     public class Link

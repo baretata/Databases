@@ -8,6 +8,8 @@
     using System.Net;
     using System.Text;
     using System.Xml.Linq;
+
+    using _01.RSSFeedParser.VideoComponents;
     using Newtonsoft.Json;
     using Newtonsoft.Json.Linq;
 
@@ -39,7 +41,7 @@
 
             foreach (var item in items)
             {
-                sb.AppendFormat("<li><a href=\"{0}\"><strong>{1}</strong></a></li>", item.Link.Href, item.Title);
+                sb.AppendFormat("<li style=\"list-style-type:none;\"><a href=\"{0}\"><strong>{1}</strong></a></li>", item.Link.Href, item.Title);
                 sb.AppendFormat("<iframe width=\"420\" height=\"315\" src=\"http://www.youtube.com/embed/{0}?autoplay=1\"></iframe>", item.Id);
             }
 
