@@ -29,8 +29,10 @@
 
 ## _Solutions_
 #### 1.  _What is SQL? What is DML? What is DDL? Recite the most important SQL commands._
+
 ##### **_What is SQL_**
  - SQL stands for Structured Query Language. SQL is used to communicate with a database. It is standard language for relational database management systems developed by Microsoft. SQL statements are used to perform tasks such as update data on a database, or retrieve data from a database. Some common relational database management systems that use SQL are: Oracle, Sybase, Microsoft SQL Server, Access. Although most database systems use SQL, most of them also have their own additional proprietary extensions that are usually only used on their system. However, the standard SQL commands such as "SELECT", "INSERT", "Update", "DELETE", "CREATE" and "DROP" can be used to accomplish almost everything that one needs to do with a database.
+ 
 ##### **_What is DML_**
  - A data manipulation language (DML) is a family of syntax elements similar to a computer programming language used for selecting, inserting, deleting and updating data in a database. Performing read-only queries of data is sometimes also considered a component of DML.
  - Data manipulation language comprises the SQL data change statements, which modify stored data but not the schema or database objects. Manipulation of persistent database objects, tables or stored procedures, via the SQL schema statements, rather than the data stored within them, is considered to be part of a separate data definition language.
@@ -48,6 +50,7 @@
  - `DROP` `TABLE` - deletes a database table
  
 #### 2.  _What is Transact-SQL (T-SQL)?_
+
 ##### **_Definition_**
  - T-SQL (Transact-SQL) is a set of programming extensions from Sybase and Microsoft that add several features to the Structured Query Language (SQL) including transaction control, exception and error handling, row processing, and declared variables. 
  - Keywords for flow control in Transact-SQL include `BEGIN` and `END`, `BREAK`, `CONTINUE`, `GOTO`, `IF` and `ELSE`, `RETURN`, `WAITFOR`, and `WHILE`.
