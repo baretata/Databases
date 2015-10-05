@@ -283,11 +283,11 @@ DELETE FROM WorkHours
 WHERE [Hours] < 3
 
 CREATE TABLE WorkHoursLogs(
-	LogId int IDENTITY,
+	LogId INT IDENTITY,
 	OldRecord nvarchar(500),
 	NewRecord nvarchar(500),
 	Command nvarchar(10),
-	EmployeeId int,
+	EmployeeId INT,
 	CONSTRAINT PK_WorkHoursLogs PRIMARY KEY(LogId),
 	CONSTRAINT FK_WorkHoursLogs_WorkHours FOREIGN KEY(EmployeeId) 
 	REFERENCES WorkHours(EmployeeId)
@@ -297,7 +297,7 @@ GO
 CREATE TRIGGER tr_WorkHoursInsert ON WorkHours FOR INSERT
 AS
 	INSERT INTO WorkHoursLogs(OldRecord, NewRecord, Command, EmployeeId)
-	Values('',
+	VALUES('',
 		   (SELECT 'Day: ' + CAST(Date AS nvarchar(50)) + ' ' + ' Task: ' + Task + ' ' + 
 					' Hours: ' + CAST([Hours] AS nvarchar(50)) + ' ' + Comments
 			FROM Inserted),
@@ -308,7 +308,7 @@ GO
 CREATE TRIGGER tr_WorkHoursUpdate ON WorkHours FOR UPDATE
 AS
 	INSERT INTO WorkHoursLogs(OldRecord, NewRecord, Command, EmployeeId)
-	Values((SELECT 'Day: ' + CAST(Date AS nvarchar(50)) + ' ' + ' Task: ' + Task + ' ' +
+	VALUES((SELECT 'Day: ' + CAST(Date AS nvarchar(50)) + ' ' + ' Task: ' + Task + ' ' +
 					 ' Hours: ' + CAST([Hours] AS nvarchar(50)) + ' ' + Comments FROM Deleted),
 		   (SELECT 'Day: ' + CAST(Date AS nvarchar(50)) + ' ' + ' Task: ' + Task + ' ' + 
 					' Hours: ' + CAST([Hours] AS nvarchar(50)) + ' ' + Comments FROM Inserted),
@@ -316,10 +316,10 @@ AS
 		   (SELECT EmployeeID FROM Inserted))
 GO
 
-CREATE TRIGGER tr_WorkHoursDeleted ON WorkHours FOR DELETE
+CREATE TRIGGER tr_WorkHoursDelete ON WorkHours FOR DELETE
 AS
 	INSERT INTO WorkHoursLogs(OldRecord, NewRecord, Command, EmployeeId)
-	Values((SELECT 'Day: ' + CAST(Date AS nvarchar(50)) + ' ' + ' Task: ' + Task + ' ' + 
+	VALUES((SELECT 'Day: ' + CAST(Date AS nvarchar(50)) + ' ' + ' Task: ' + Task + ' ' + 
 					' Hours: ' + CAST([Hours] AS nvarchar(50)) + ' ' + Comments FROM Deleted),
 		   '',
 		   'DELETE',
