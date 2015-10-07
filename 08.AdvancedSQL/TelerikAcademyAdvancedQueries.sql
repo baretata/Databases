@@ -222,7 +222,7 @@ GROUP BY d.Name, e.JobTitle
 --Task 26: Write a SQL query to display the minimal employee salary by department and 
 --job title along with the name of some of the employees that take it.
 
-SELECT e.FirstName, e.LastName, MIN(e.Salary), d.Name AS [Department], e.JobTitle
+SELECT MIN(e.Salary) AS [Minimal Salary], d.Name AS [Department], e.JobTitle
 FROM Employees e
 	JOIN Departments d
 		ON e.DepartmentID = d.DepartmentID
